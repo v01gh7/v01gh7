@@ -1,8 +1,12 @@
 💫 About Me:
 🔭 I’m currently working on performance optimization, security tools, and problem-solving plugins for MODX, PHP, and Go projects.
+
 👯 I’m looking to collaborate on open-source security solutions, cache optimization tools, and serverless-friendly backend utilities.
+
 🤝 I’m looking for help with expanding multi-language support and advanced threat-detection logic for PHP and Go firewalls.
+
 🌱 I’m currently learning advanced Go concurrency patterns, scalable backend design, and modern JS build optimization techniques.
+
 ⚡ Fun fact: I once reduced a bloated 404 cache from thousands of files to zero in under 3 seconds — the server literally sighed in relief.
 
 
