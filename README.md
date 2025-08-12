@@ -10,6 +10,7 @@
 
 ⚡ Fun fact: I once reduced a bloated 404 cache from thousands of files to zero in under 3 seconds — the server literally sighed in relief.
 
+👅 EN & RU
 
 
 ## 🌐 Socials:
