@@ -1,14 +1,22 @@
-## 💫 About Me:
+## 🚀 About Me
 
-🔭 I’m currently working on performance optimization, security tools, and problem-solving plugins for MODX, PHP, and Go projects.
+**Backend Developer** Who enjoys solving performance bottlenecks and building practical tools. I strive for clean code, but in reality, I often squeeze the most out of limited resources.
 
-👯 I’m looking to collaborate on open-source security solutions, cache optimization tools, and serverless-friendly backend utilities.
+### 🔧 What I Do
 
-🤝 I’m looking for help with expanding multi-language support and advanced threat-detection logic for PHP and Go firewalls.
+**🛠 Performance Optimization** - Finding and fixing slow code  
+*Example: Cleaned up bloated cache system, reducing server load*
 
-🌱 I’m currently learning advanced Go concurrency patterns, scalable backend design, and modern JS build optimization techniques.
+**⚡ Backend Development** - I build systems that operate under resource constraints.
+*Experience: MVPs with strict cost requirements, deployment on nearly free servers (SHARED SERVICES), solutions that work but aren't always perfect*
 
-⚡ Fun fact: I once reduced a bloated 404 cache from thousands of files to zero in under 3 seconds — the server literally sighed in relief.
+### 🎯 Open for Collaboration
+
+Interested in:
+- **Performance improvements** - caching, optimization
+- **API integrations** and backend services  
+- **Useful tools** that solve real development problems
+- **Open source utilities** for web development
 
 👅 EN & RU
 
