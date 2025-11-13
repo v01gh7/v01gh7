@@ -7,8 +7,9 @@
 **🛠 Performance Optimization** - Finding and fixing slow code  
 *Example: Cleaned up bloated cache system, reducing server load*
 
-**⚡ Backend Development** - I build systems that operate under resource constraints.
-*Experience: MVPs with strict cost requirements, deployment on nearly free servers (SHARED SERVICES), solutions that work but aren't always perfect*
+**⚡ Backend Development** - *I build systems that operate under resource constraints.*
+
+*MVPs with strict cost requirements, deployment on nearly free servers (SHARED SERVERS), solutions that work but aren't always perfect*
 
 ### 🎯 Open for Collaboration
 
