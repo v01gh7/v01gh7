@@ -1,11 +1,10 @@
 ## 🚀 About Me
 
-**Backend Developer** Who enjoys solving performance bottlenecks and building practical tools. I strive for clean code, but in reality, I often squeeze the most out of limited resources.
+**Backend Developer** Who enjoys solving performance bottlenecks and building practical tools. I strive for clean code, but in reality, we often squeeze the most out of limited resources.
 
 ### 🔧 What I Do
 
-**🛠 Performance Optimization** - Finding and fixing slow code  
-*Example: Cleaned up bloated cache system, reducing server load*
+**🛠 Performance Optimization** - *Finding and fixing slow code.* 
 
 **⚡ Backend Development** - *I build systems that operate under resource constraints.*
 
